@@ -1,4 +1,5 @@
-A sample command-line application.
+# Simple AI
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+> or building a brain
+
+Basic idea is to build neurons with reactive inputs, that can be connected like a network.
